@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Five\\Desktop\\Bingo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29ECFD27-18D4-42F8-92CF-146DC3C5E02B}|Models\\Models.csproj|c:\\users\\five\\desktop\\bingo\\models\\pools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29ECFD27-18D4-42F8-92CF-146DC3C5E02B}|Models\\Models.csproj|solutionrelative:models\\pools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29ECFD27-18D4-42F8-92CF-146DC3C5E02B}|Models\\Models.csproj|c:\\users\\five\\desktop\\bingo\\models\\gamerun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29ECFD27-18D4-42F8-92CF-146DC3C5E02B}|Models\\Models.csproj|solutionrelative:models\\gamerun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29ECFD27-18D4-42F8-92CF-146DC3C5E02B}|Models\\Models.csproj|c:\\users\\five\\desktop\\bingo\\models\\cardgrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29ECFD27-18D4-42F8-92CF-146DC3C5E02B}|Models\\Models.csproj|solutionrelative:models\\cardgrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29ECFD27-18D4-42F8-92CF-146DC3C5E02B}|Models\\Models.csproj|c:\\users\\five\\desktop\\bingo\\models\\utils\\helpfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29ECFD27-18D4-42F8-92CF-146DC3C5E02B}|Models\\Models.csproj|solutionrelative:models\\utils\\helpfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29ECFD27-18D4-42F8-92CF-146DC3C5E02B}|Models\\Models.csproj|c:\\users\\five\\desktop\\bingo\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29ECFD27-18D4-42F8-92CF-146DC3C5E02B}|Models\\Models.csproj|solutionrelative:models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BDC143-BF44-4884-A311-5366350F5FA8}|Bingo\\Bingo.csproj|c:\\users\\five\\desktop\\bingo\\bingo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9BDC143-BF44-4884-A311-5366350F5FA8}|Bingo\\Bingo.csproj|solutionrelative:bingo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HelpFunctions.cs",
+              "DocumentMoniker": "C:\\Users\\Five\\Desktop\\Bingo\\Models\\Utils\\HelpFunctions.cs",
+              "RelativeDocumentMoniker": "Models\\Utils\\HelpFunctions.cs",
+              "ToolTip": "C:\\Users\\Five\\Desktop\\Bingo\\Models\\Utils\\HelpFunctions.cs",
+              "RelativeToolTip": "Models\\Utils\\HelpFunctions.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T23:53:33.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CardGrid.cs",
+              "DocumentMoniker": "C:\\Users\\Five\\Desktop\\Bingo\\Models\\CardGrid.cs",
+              "RelativeDocumentMoniker": "Models\\CardGrid.cs",
+              "ToolTip": "C:\\Users\\Five\\Desktop\\Bingo\\Models\\CardGrid.cs",
+              "RelativeToolTip": "Models\\CardGrid.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAIwEIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T23:50:15.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pools.cs",
+              "DocumentMoniker": "C:\\Users\\Five\\Desktop\\Bingo\\Models\\Pools.cs",
+              "RelativeDocumentMoniker": "Models\\Pools.cs",
+              "ToolTip": "C:\\Users\\Five\\Desktop\\Bingo\\Models\\Pools.cs",
+              "RelativeToolTip": "Models\\Pools.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwCMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T18:19:41.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameRun.cs",
+              "DocumentMoniker": "C:\\Users\\Five\\Desktop\\Bingo\\Models\\GameRun.cs",
+              "RelativeDocumentMoniker": "Models\\GameRun.cs",
+              "ToolTip": "C:\\Users\\Five\\Desktop\\Bingo\\Models\\GameRun.cs",
+              "RelativeToolTip": "Models\\GameRun.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA5wBsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T17:42:31.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Five\\Desktop\\Bingo\\Bingo\\Program.cs",
+              "RelativeDocumentMoniker": "Bingo\\Program.cs",
+              "ToolTip": "C:\\Users\\Five\\Desktop\\Bingo\\Bingo\\Program.cs",
+              "RelativeToolTip": "Bingo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T18:02:19.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\Five\\Desktop\\Bingo\\Models\\Card.cs",
+              "RelativeDocumentMoniker": "Models\\Card.cs",
+              "ToolTip": "C:\\Users\\Five\\Desktop\\Bingo\\Models\\Card.cs",
+              "RelativeToolTip": "Models\\Card.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T18:02:10.136Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
